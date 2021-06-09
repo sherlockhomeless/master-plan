@@ -3,9 +3,7 @@
 * Zeit in HH:MM
 
 | Aufgabe | Plan-Zeit | Investierte Zeit |
-
 | -------------- | --------- | ---------- | 
-
 | Einleitung| 8 | 0 |
 | Theorie schreiben| 16 | 0 |
 | Implementierung Schreiben| 8 | 0 |
